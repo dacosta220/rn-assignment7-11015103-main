@@ -48,3 +48,11 @@ Your React Native shopping app is well-rounded with essential features for a sat
 
 
 
+
+![Image 2024-07-12 at 16 27 (2)](https://github.com/user-attachments/assets/74bb0618-54d0-4ffb-9b1f-343ba24aaf33)
+![Image 2024-07-12 at 16 27 (1)](https://github.com/user-attachments/assets/fc9cfb21-ec89-4b8e-9a0b-460385cb2fec)
+
+
+
+
+
